@@ -1,7 +1,6 @@
 .jumbotron {
     margin-top: 10px;
     min-height: 300px;
-    background-image: url(static/img/grf-bg.jpg);
     background-size: cover;
     background-color: #337ab7;
     padding-top:0;
@@ -43,7 +42,7 @@
 body {
     font-family: "Helvetica Neue",Helvetica,Arial,sans-serif;
     font-size: 14px;
-    background-image:url(static/img/bacteria.png);
+    background-image:url(static/img/bacteria1.png);
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover;

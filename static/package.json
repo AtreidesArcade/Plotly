@@ -1,0 +1,18 @@
+{
+  "dependencies": {
+    "d3": "^7.2.1",
+    "live-server": "^1.2.1",
+    "liveserver": "^0.1.20"
+  },
+  "globals": {
+    "Plotly": true,
+    "data": true,
+    "d3": true
+  },
+  "rules": {
+    "arrow-body-style": [
+      "error",
+      "never"
+    ]
+  }
+}
